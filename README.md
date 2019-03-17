@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', function() {
     #client-ui.flex_pane_showing #col_flex, #col_flex { border-left-color: #000; }
     #flex_contents, #threads_msgs_scroller_div, ts-thread { background: #303030 }
     #flex_contents .heading, .p-flexpane_header, ts-thread .thread_messages { background: rgba(0,0,0,0.5); }
-    /* color for hower in burger menu in top right corner */
+    /* color for hover in burger menu in top right corner */
     .menu ul li.highlighted a:not(.inline_menu_link), .menu:not(.keyboard_active) ul li:hover:not(.disabled) a:not(.inline_menu_link), .menu:not(.keyboard_active) ul li:hover:not(.disabled) button:not(.inline_menu_link) {background: #ff5132; }
     /* link text */
     .c-link--button { color: #ff5132; }
