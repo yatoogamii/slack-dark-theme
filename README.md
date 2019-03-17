@@ -68,9 +68,9 @@ document.addEventListener('DOMContentLoaded', function() {
     /* link text hover */
     .c-link--button:active, .c-link--button:hover { color: #d14329; }
     /* color hover in button other actions when you hover our message */
-    .c-menu_item__button--highlighted { background: #313131; !important}
+    .c-menu_item__button--highlighted { background: #ff5132; !important}
     /* color hover in button other actions when you hover our message */
-    .c-menu_item__button:hover { background: #313131; !important}
+    .c-menu_item__button:hover { background: #ff5132; !important}
     /* color hover "delete message" in button other actions when you hover our message */
     .c-menu_item__button--danger:hover { background: #8c2310; !important}
 
