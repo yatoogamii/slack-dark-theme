@@ -1,6 +1,6 @@
 # slack-dark-theme
 
-
+![](slack.png)
 
 ```
 document.addEventListener('DOMContentLoaded', function() {
