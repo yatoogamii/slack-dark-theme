@@ -91,7 +91,7 @@ NB: You'll have to do this every time Slack updates.
 
 # Color Schemes
 
-theme dark red:
+Theme Dark-red:
 
 ![](slack-dark-red.png)
 
